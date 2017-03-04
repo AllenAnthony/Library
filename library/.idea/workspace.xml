@@ -1,0 +1,629 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b0a91f14-db88-4619-8ec3-4653dce3b19c" name="Default" comment="" />
+    <ignored path="library.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="library" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="E:/library/index.php" />
+        <option value="$PROJECT_DIR$/test.php" />
+        <option value="E:/library/config.php" />
+        <option value="E:/library/head.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="E:/10网工4班-席伟强-105151140105/代码文件/functions/database.php" />
+        <option value="F:/课程资料/数据库系统/PHP+LIBRARY/library/index.php" />
+        <option value="$PROJECT_DIR$/class1.css" />
+        <option value="$PROJECT_DIR$/../library_management/search.php" />
+        <option value="$PROJECT_DIR$/insertweb.php" />
+        <option value="$PROJECT_DIR$/upload_file.php" />
+        <option value="$PROJECT_DIR$/largeinsert.php" />
+        <option value="E:/phpExcelReader/Excel/reader.php" />
+        <option value="$PROJECT_DIR$/manager.php" />
+        <option value="$PROJECT_DIR$/check.php" />
+        <option value="$PROJECT_DIR$/login.php" />
+        <option value="$PROJECT_DIR$/large_insert.php" />
+        <option value="$PROJECT_DIR$/insert_web.php" />
+        <option value="$PROJECT_DIR$/insert.php" />
+        <option value="$PROJECT_DIR$/file.php" />
+        <option value="$PROJECT_DIR$/model.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true">
+    <include_path>
+      <path value="E:\wamp64\www" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="library" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="library" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="library" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.file.php">
+    <configuration default="false" name="check.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost/library/check.php">
+      <method />
+    </configuration>
+    <configuration default="false" name="login.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost/library/login.php">
+      <method />
+    </configuration>
+    <configuration default="false" name="insert.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/insert.php">
+      <method />
+    </configuration>
+    <configuration default="false" name="insert.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost/library/insert.php">
+      <method />
+    </configuration>
+    <configuration default="false" name="file.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost/library/file.php">
+      <method />
+    </configuration>
+    <configuration default="true" type="AppEnginePhpConfigurationType" factoryName="App Engine for PHP">
+      <method />
+    </configuration>
+    <configuration default="true" type="ChromiumRemoteDebugType" factoryName="Chromium Remote">
+      <method />
+    </configuration>
+    <configuration default="true" type="CompoundRunConfigurationType" factoryName="Compound Run Configuration">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpHttpRequestRunConfigurationType" factoryName="PHP HTTP Request">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpRemoteDebugRunConfigurationType" factoryName="PHP Remote Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server" server_id="3de31ea7-97b5-40b8-9fc4-66ffe0956f15" server_name="Wamp">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="XSLT" factoryName="XSLT">
+      <option name="myOutputFile" />
+      <option name="myOpenOutputFile" value="false" />
+      <option name="myOpenInBrowser" value="false" />
+      <option name="mySmartErrorHandling" value="true" />
+      <option name="myRunnerPort" value="34873" />
+      <option name="myVmArguments" />
+      <option name="myWorkingDirectory" />
+      <option name="myModule" />
+      <option name="myJdk" />
+      <parameters />
+      <OutputType value="CONSOLE" save-to-file="false" />
+      <FileType name="XML" />
+      <JdkChoice value="FROM_MODULE" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="test.php" type="JavascriptDebugType" factoryName="JavaScript Debug" nameIsGenerated="true" uri="http://localhost/library/test.php">
+      <method />
+    </configuration>
+    <list size="6">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.test.php" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.check.php" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.login.php" />
+      <item index="3" class="java.lang.String" itemvalue="PHP Script.insert.php" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.insert.php" />
+      <item index="5" class="java.lang.String" itemvalue="JavaScript Debug.file.php" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.file.php" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.insert.php" />
+        <item index="2" class="java.lang.String" itemvalue="PHP Script.insert.php" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.login.php" />
+        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.check.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b0a91f14-db88-4619-8ec3-4653dce3b19c" name="Default" comment="" />
+      <created>1460808563568</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1460808563568</updated>
+      <workItem from="1460808564896" duration="7960000" />
+      <workItem from="1460895567890" duration="8617000" />
+      <workItem from="1460904288920" duration="1701000" />
+      <workItem from="1460937623504" duration="1740000" />
+      <workItem from="1460956870962" duration="76000" />
+      <workItem from="1460981436826" duration="3307000" />
+      <workItem from="1460990114586" duration="811000" />
+      <workItem from="1461147273265" duration="10063000" />
+      <workItem from="1461159199402" duration="1043000" />
+      <workItem from="1461162645686" duration="389000" />
+      <workItem from="1461246881545" duration="5165000" />
+      <workItem from="1461301528526" duration="1976000" />
+      <workItem from="1461475548688" duration="626000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="43474000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1749634" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39905363" sideWeight="0.50292826" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39905363" sideWeight="0.49707174" order="6" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="3" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/manager.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="29" column="9" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/insert.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/check.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+          <folding>
+            <marker date="1461301993790" expanded="true" signature="562:592" placeholder="select * fro... manager" />
+            <marker date="1461301993790" expanded="true" signature="562:605" placeholder="select manag... manager" />
+            <marker date="1461301993790" expanded="true" signature="562:606" placeholder="select manag... manager" />
+            <marker date="1461301993790" expanded="true" signature="562:609" placeholder="select passw... manager" />
+            <marker date="1461301993790" expanded="true" signature="562:618" placeholder="select manag... manager" />
+            <marker date="1461301993790" expanded="true" signature="562:635" placeholder="select manag... manager" />
+            <marker date="1461301993790" expanded="true" signature="562:636" placeholder="select manag... manager" />
+            <marker date="1461301993790" expanded="true" signature="562:638" placeholder="select manag... manager" />
+            <marker date="1461301993790" expanded="true" signature="562:647" placeholder="select manag... manager" />
+            <marker date="1461301993790" expanded="true" signature="562:648" placeholder="select manag... manager" />
+            <marker date="1461301993790" expanded="true" signature="562:688" placeholder="select manag... manager" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manager.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="2" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/check.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" column="30" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
+          <folding>
+            <marker date="1461301993790" expanded="true" signature="562:592" placeholder="select * fro... manager" />
+            <marker date="1461301993790" expanded="true" signature="562:605" placeholder="select manag... manager" />
+            <marker date="1461301993790" expanded="true" signature="562:606" placeholder="select manag... manager" />
+            <marker date="1461301993790" expanded="true" signature="562:609" placeholder="select passw... manager" />
+            <marker date="1461301993790" expanded="true" signature="562:618" placeholder="select manag... manager" />
+            <marker date="1461301993790" expanded="true" signature="562:635" placeholder="select manag... manager" />
+            <marker date="1461301993790" expanded="true" signature="562:636" placeholder="select manag... manager" />
+            <marker date="1461301993790" expanded="true" signature="562:638" placeholder="select manag... manager" />
+            <marker date="1461301993790" expanded="true" signature="562:647" placeholder="select manag... manager" />
+            <marker date="1461301993790" expanded="true" signature="562:648" placeholder="select manag... manager" />
+            <marker date="1461301993790" expanded="true" signature="562:688" placeholder="select manag... manager" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/课程资料/数据库系统/PHP+LIBRARY/10网工4班-席伟强-105151140105/代码文件/functions/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="91" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.php" />
+    <entry file="file://E:/10网工4班-席伟强-105151140105/代码文件/index.html" />
+    <entry file="file://$PROJECT_DIR$/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="30" column="26" selection-start-line="30" selection-start-column="26" selection-end-line="30" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/check.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="74" selection-start-line="11" selection-start-column="74" selection-end-line="11" selection-end-column="74" />
+          <folding>
+            <marker date="1461301993790" expanded="true" signature="562:592" placeholder="select * fro... manager" />
+            <marker date="1461301993790" expanded="true" signature="562:605" placeholder="select manag... manager" />
+            <marker date="1461301993790" expanded="true" signature="562:606" placeholder="select manag... manager" />
+            <marker date="1461301993790" expanded="true" signature="562:609" placeholder="select passw... manager" />
+            <marker date="1461301993790" expanded="true" signature="562:618" placeholder="select manag... manager" />
+            <marker date="1461301993790" expanded="true" signature="562:635" placeholder="select manag... manager" />
+            <marker date="1461301993790" expanded="true" signature="562:636" placeholder="select manag... manager" />
+            <marker date="1461301993790" expanded="true" signature="562:638" placeholder="select manag... manager" />
+            <marker date="1461301993790" expanded="true" signature="562:647" placeholder="select manag... manager" />
+            <marker date="1461301993790" expanded="true" signature="562:648" placeholder="select manag... manager" />
+            <marker date="1461301993790" expanded="true" signature="562:688" placeholder="select manag... manager" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/10网工4班-席伟强-105151140105/代码文件/functions/login.php" />
+    <entry file="file://E:/10网工4班-席伟强-105151140105/代码文件/functions/database.php" />
+    <entry file="file://E:/library/head.php" />
+    <entry file="file://E:/library/index.php" />
+    <entry file="file://E:/library/config.php" />
+    <entry file="file://E:/new-backstage/index.html" />
+    <entry file="file://$PROJECT_DIR$/index.php" />
+    <entry file="file://E:/10网工4班-席伟强-105151140105/代码文件/index.html" />
+    <entry file="file://E:/10网工4班-席伟强-105151140105/代码文件/functions/login.php" />
+    <entry file="file://E:/10网工4班-席伟强-105151140105/代码文件/functions/database.php" />
+    <entry file="file://F:/课程资料/数据库系统/PHP+LIBRARY/10网工4班-席伟强-105151140105/代码文件/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/课程资料/数据库系统/PHP+LIBRARY/library/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1603">
+          <caret line="13" column="34" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/课程资料/数据库系统/PHP+LIBRARY/new-backstage/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1532">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/课程资料/数据库系统/PHP+LIBRARY/10网工4班-席伟强-105151140105/代码文件/functions/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="91" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class1.css" />
+    <entry file="file://F:/课程资料/数据库系统/PHP+LIBRARY/10网工4班-席伟强-105151140105/代码文件/bookreg.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="35" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../library_management/index.php" />
+    <entry file="file://$PROJECT_DIR$/../library_management/test.php" />
+    <entry file="file://$PROJECT_DIR$/insertweb.php" />
+    <entry file="file://$PROJECT_DIR$/../library_management/search.php" />
+    <entry file="file://$PROJECT_DIR$/../library_management/SearchWeb.php" />
+    <entry file="file://$PROJECT_DIR$/upload_file.php" />
+    <entry file="file://$PROJECT_DIR$/largeinsert.php" />
+    <entry file="file://F:/课程资料/数据库系统/model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="120" column="61" selection-start-line="120" selection-start-column="61" selection-end-line="120" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manager.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/phpExcelReader/example.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="39" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/phpExcelReader/Excel/reader.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="258" column="39" selection-start-line="258" selection-start-column="39" selection-end-line="258" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/library_management/file.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="112" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/card_manage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="463">
+          <caret line="145" column="4" selection-start-line="145" selection-start-column="4" selection-end-line="145" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/card_manage_web.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="139" column="12" selection-start-line="139" selection-start-column="12" selection-end-line="139" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/check.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="722">
+          <caret line="38" column="1" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
+          <folding>
+            <marker date="1461301993790" expanded="true" signature="562:592" placeholder="select * fro... manager" />
+            <marker date="1461301993790" expanded="true" signature="562:605" placeholder="select manag... manager" />
+            <marker date="1461301993790" expanded="true" signature="562:606" placeholder="select manag... manager" />
+            <marker date="1461301993790" expanded="true" signature="562:609" placeholder="select passw... manager" />
+            <marker date="1461301993790" expanded="true" signature="562:618" placeholder="select manag... manager" />
+            <marker date="1461301993790" expanded="true" signature="562:635" placeholder="select manag... manager" />
+            <marker date="1461301993790" expanded="true" signature="562:636" placeholder="select manag... manager" />
+            <marker date="1461301993790" expanded="true" signature="562:638" placeholder="select manag... manager" />
+            <marker date="1461301993790" expanded="true" signature="562:647" placeholder="select manag... manager" />
+            <marker date="1461301993790" expanded="true" signature="562:648" placeholder="select manag... manager" />
+            <marker date="1461301993790" expanded="true" signature="562:688" placeholder="select manag... manager" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/insert.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="25" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="37" column="17" selection-start-line="37" selection-start-column="17" selection-end-line="37" selection-end-column="17" />
+          <folding>
+            <marker date="1461302895382" expanded="true" signature="394:425" placeholder="select * fro... book" />
+            <marker date="1461302895382" expanded="true" signature="394:426" placeholder="select * fro... book" />
+            <marker date="1461302895382" expanded="true" signature="394:427" placeholder="select * fro... book" />
+            <marker date="1461302895382" expanded="true" signature="394:438" placeholder="select * fro... book" />
+            <marker date="1461302895382" expanded="true" signature="394:451" placeholder="select * fro... book" />
+            <marker date="1461302895382" expanded="true" signature="394:452" placeholder="select * fro... book" />
+            <marker date="1461302895382" expanded="true" signature="394:459" placeholder="select * fro... book" />
+            <marker date="1461302895382" expanded="true" signature="394:472" placeholder="select * fro... book" />
+            <marker date="1461302895382" expanded="true" signature="394:473" placeholder="select * fro... book" />
+            <marker date="1461302895382" expanded="true" signature="394:479" placeholder="select * fro... book" />
+            <marker date="1461302895382" expanded="true" signature="394:480" placeholder="select * fro... book" />
+            <marker date="1461302895382" expanded="true" signature="394:494" placeholder="select * fro... book" />
+            <marker date="1461302895382" expanded="true" signature="394:503" placeholder="select * fro... book" />
+            <marker date="1461302895382" expanded="true" signature="394:514" placeholder="select * fro... book" />
+            <marker date="1461302895382" expanded="true" signature="394:515" placeholder="select * fro... book" />
+            <marker date="1461302895382" expanded="true" signature="394:520" placeholder="select * fro... book" />
+            <marker date="1461302895382" expanded="true" signature="394:522" placeholder="select * fro... book" />
+            <marker date="1461302895382" expanded="true" signature="803:866" placeholder="update book " />
+            <marker date="1461302895382" expanded="true" signature="973:1087" placeholder="insert into book... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/file.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="33" column="9" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/large_insert.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="31" column="25" selection-start-line="31" selection-start-column="25" selection-end-line="31" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/insert_web.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="62" column="24" selection-start-line="62" selection-start-column="24" selection-end-line="62" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
